@@ -1,0 +1,5 @@
+export PATH=/home/libs/OPENMPI/bin:$PATH
+export LD_LIBRARY_PATH=/home/libs/OPENMPI/lib:$LD_LIBRARY_PATH
+export PETSC_DIR=/home/libs/petsc-3.2-p5 
+export PETSC_ARCH=arch-linux2-c-opt 
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/libs/VTK_X64/lib/vtk-5.10/
